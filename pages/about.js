@@ -1,4 +1,4 @@
-import Footer from "..Footer/components/Footer";
+import Footer from "../components/layout/Footer";
 
 function About() {
   return (

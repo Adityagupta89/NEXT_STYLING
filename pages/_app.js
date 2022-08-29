@@ -1,8 +1,8 @@
-import "../styles/globals.css";
+import "/styles/globals.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Footer from "../components/Footer";
-import Header from "../components/Header";
-import "../styles/layout.css";
+import Footer from "/components/layout/Footer";
+import Header from "/components/layout/Header";
+import "/styles/layout.css";
 import Head from "next/head";
 
 function MyApp({ Component, pageProps }) {
